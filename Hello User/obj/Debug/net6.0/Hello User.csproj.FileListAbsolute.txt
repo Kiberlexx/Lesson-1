@@ -1,0 +1,15 @@
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\bin\Debug\net6.0\Hello User.exe
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\bin\Debug\net6.0\Hello User.deps.json
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\bin\Debug\net6.0\Hello User.runtimeconfig.json
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\bin\Debug\net6.0\Hello User.dll
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\bin\Debug\net6.0\ref\Hello User.dll
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\bin\Debug\net6.0\Hello User.pdb
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.csproj.AssemblyReference.cache
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.AssemblyInfoInputs.cache
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.AssemblyInfo.cs
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.csproj.CoreCompileInputs.cache
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.dll
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\ref\Hello User.dll
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.pdb
+D:\YandexDisk\++Программирование\04 Знакомство с языками программирования\01 Лекция\Lesson 1\Hello User\obj\Debug\net6.0\Hello User.genruntimeconfig.cache
